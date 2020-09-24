@@ -1,7 +1,6 @@
 #WhatsApp Mass Messenger
 from time import sleep
 from csv import reader
-
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
